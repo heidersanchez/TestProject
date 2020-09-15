@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// colocar aqui el resto de funciones
+
 int* descomponerDigitos(long int numero,int & n)
 {
   //contar digitos
